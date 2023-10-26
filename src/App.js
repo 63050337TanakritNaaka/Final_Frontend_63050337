@@ -6,7 +6,7 @@ import List from "./Components/List";
 const App = () => {
   return (
     <Box position="relative">
-      <Header />
+      {/* <Header /> */}
       <Container>
         <List />
       </Container>
